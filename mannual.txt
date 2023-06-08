@@ -1,0 +1,19 @@
+
+1. cd - change directory - papkaga kirish, chiqish, yo'nalishni o'zgartirish. cd ./folder_name
+2. ls - list - shu folder dagi fayl va papkalar ro`yxati. 
+2.1. ls -a  - list all - bu yashirin fayllarni ham qo`shib chiqaradi.
+3. mkdir - make directory - yangi folder yaratadi. | mkdir folder_name
+4. touch - yangi fayl yaratadi. | touch file_name.ext
+5. code path - shu path da vs code ochib beradi. | code . | - shu folderda vsCode ochadi.
+
+
+Git
+	1. git add path - shu path`dagi faylni, yoki folderdagi fayllarni hammasini git`ga qo`shadi.
+	2. git commit -m "msg" - yangi versiyani shu msg bn saqlab qo`yadi. | git commit -m "first commit" |
+	3. git status - hozirgi holatni ko`rsatadi. branch, working tree, staging larni ko`rsatadi. 
+	4. git log - barcha commit larni ko`rsatadi. 
+	5. git chechout [commit_id] or [branch_name]  - o`sha commit yoki branchga o`tish. | git checout asaddbek |  
+	6. git merge branch_name - yozilgan branchdagi o`zgarishlarni hozirgi turgan branchga qo`shadi.
+	7. git pull [url] - remote serverdan o`zgarishlarni olish.
+	8. git push [url] - remote serverga o`zgarishlarni jo`natish
+	

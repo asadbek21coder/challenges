@@ -1,0 +1,66 @@
+
+1. Foydalanuvchidan qiymat qabul qiling va uni tipini ekranga chiqaring.
+
+2. Foydalanuvchi son kiritadi, kiritilgan son juft bo'lsa ekranga "juft" aks holda "toq" degan yozuvchi chiqaring.
+
+**3. Foydalanuvchi 2 ta belgi kiritadi. Ulardan bittasi belgi Ikkibchisi son bo'ladi. Siz ekranga kiritilgan belgini kiritilgan songa teng miqdorda ekranga chiqaring.
+
+4. Foydalanuvchi string kiritadi siz uning uzunligini ekranga chiqaring.
+
+5. Foydalanuvchi ikkita string kiritadi. Siz Ikkala string uzunliklarini qo'shib ekranga chiqaring.
+
+6. Foydalanuvchi ikkita son kiritadi. Siz Ikkala sonni bir-biriga bo'lib chiqqan natijani yuqoriga qarab yaxlitlab ekranga chiqaring.
+
+7. Foydalanuvchi kiritgan raqamni int, float, bool tiplarida ekranga chiqaring.
+
+8. Foydalanuvchi son kiritadi, kiritilgan son 80-100 orasida bo`lsa "bahoyingiz a`lo", 60-80 orasida bo`lsa "bahoyingiz yaxshi", 40-60 orasida bo`lsa "bahoyingiz qoniqarli", 0-40 orasida bo`lsa "bahoyingiz qoniqarisiz" degan matnnni chiqaring. 0 dan kichkina son kiritish mumkin bo`lmasligi kerak.
+
+9. Kiritilgan belgi "harf" ekanligini aniqlang.
+
+	Input:     "K"
+	Output:  "harf"
+
+	Input:     "$"
+	Output:  "harf emas"
+
+10. Foydalanuvchi 5 xonali son kiritadi. Shu sonning raqamlari yig'indisini toping
+	
+	Input:      65478
+	Output:  30 
+	
+11. Foydalanuvchi 2 xonali son kiritadi. Shu sonning raqamlarini o'rinini almashtirib o'ziga o'zlashtiring.
+
+	Input:      57
+	Output:  75
+
+12. Foydalanuvchi 7 xonali son kiritadi. Shu sonni teskari tartibda o'ziga o'zlashtiring, va ekranga chiqaring.
+
+	Input:      1234567
+	Output:   7654321
+
+**13. Foydalanuvchi n son kiritadi. Siz esa, 1 dan n gacha bo‘lgan "juft" sonlarni sonini ekranga chiqaring.
+
+14. Foydalanuvchi sekundlarni kiritadi. Siz uning nechchi soat, minut va sekundligini ekranga chiqaring
+
+	Input: 4000
+	Output: 1 soat 6 min 40 sek
+
+	Input: 3600
+	Output: 1 soat 0 min 0 sek
+
+**15. Foydalanuvchi ixtiyoriy uzunlikdagi son kiritadi, string va arraydan foydalanmasdan sonni teskari yozib bering.
+
+	input : 12345
+	output: 54321 
+
+
+
+
+
+
+
+
+
+
+
+
