@@ -1,16 +1,16 @@
 package main
 
-import "fmt"
+import challenges "github.com/asadbek21coder/challenges/challenges/easy"
 
 func main() {
-	fmt.Println(CalcSum(1800, 1.5), "so`m")
-	fmt.Println(Fibo(5))
-}
+	account := challenges.BankAccount{
+		AccountNumber: "123456789",
+		HolderName:    "John Doe",
+		Balance:       1000.0,
+	}
 
-func CalcSum(price float64, kg float64) float64 {
-	return price * kg
-}
+	account.Deposit(500.0)
+	account.Withdraw(200.0)
 
-func Fibo(num int) int {
-	return num
+	account.Display()
 }
