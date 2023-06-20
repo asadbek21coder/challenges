@@ -8,7 +8,9 @@ import "math"
 type Shape interface {
 	CalculateArea() float64
 }
+// type Product struct {
 
+// }
 type Rectangle2 struct {
 	width  float64
 	height float64
